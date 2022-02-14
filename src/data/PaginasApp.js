@@ -1,4 +1,3 @@
-import Titulo from '../components/Titulo';
 import Ejercicio1 from '../components/Ejercicio1';
 import Ejercicio2 from '../components/Ejercicio2';
 import Ejercicio2Api from '../components/Ejercicio2Api';
